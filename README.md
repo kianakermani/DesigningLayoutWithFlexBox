@@ -1,3 +1,3 @@
 # DesigningLayoutWithFlexBox
 It's just a simple practice about flexbox that i'm learning right now...
-bwttwr and more complete designs will be added soon.
+better and more complete designs will be added soon.
